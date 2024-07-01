@@ -154,7 +154,7 @@ class _LogIN_ScreenState extends State<LogIN_Screen> {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'Welcome Back',
+          'Welcome to Starbucks',
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
